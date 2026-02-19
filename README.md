@@ -51,7 +51,7 @@ Windows may revert Spatial sound to **Off** or **Windows Sonic** after reboot. T
 ## Requirements
 
 ### 1. Windows
-1. Windows 10.
+1. Windows
 
 ### 2. NirSoft tool download (not included)
 Place the NirSoft tool here:

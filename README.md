@@ -23,7 +23,7 @@ Enforce **Dolby Atmos** as **Spatial sound** at **logon** for Windows render (pl
 6. [Logs](#logs)
 7. [Remove the scheduled task](#remove-the-scheduled-task)
 8. [Troubleshooting](#troubleshooting)
-9. [Screenshots](#screenshots)
+
 
 ---
 

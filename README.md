@@ -1,3 +1,5 @@
+Specifically for Windows 10.
+
 # Force Spatial Dolby All Render
 
 Enforce **Dolby Atmos** as **Spatial sound** at **logon** for Windows render (playback) endpoints.

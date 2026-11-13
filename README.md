@@ -1,4 +1,4 @@
-Specifically for Windows 10.
+Specifically for Windows 10, and earlier.
 
 # Force Spatial Dolby All Render
 
